@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true
+  },
+  "eslint.enable": true,
+  "prettier.requireConfig": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": "always",
+    "source.fixAll.eslint": "always"
+  },
+}
